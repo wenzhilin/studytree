@@ -1,1 +1,1 @@
-#[studytree](https://wenzhilin.github.io/studytree/)
+#[studytree](https://github.com/wenzhilin/studytree/blob/master/index.html)
